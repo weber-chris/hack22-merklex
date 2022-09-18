@@ -18,6 +18,4 @@ Then import via Unity-Hub (tested with Unity 2021.3
 
 
 ## Authors
-Joana Tanner
-Severin Candrian
-Christoph Weber
+Joana Tanner, Severin Candrian, Christoph Weber
